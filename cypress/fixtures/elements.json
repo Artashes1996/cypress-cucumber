@@ -1,0 +1,22 @@
+{
+  "login": {
+    "username": {
+      "locator": "#username"
+    },
+    "password": {
+      "locator": "#password"
+    },
+    "login button": {
+      "locator": ".button"
+    },
+    "error message": {
+      "locator": ".error"
+    },
+    "success message": {
+      "locator": ".success"
+    },
+    "log out": {
+      "locator": ".button"
+    }
+  }
+}
